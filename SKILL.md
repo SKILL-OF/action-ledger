@@ -1,6 +1,6 @@
 ---
 name: action-ledger
-trigger: Use in the same turn as any action that changes a file outside the calendar.
+description: Use in the same turn as any action that changes a file outside the calendar, to record it in the action ledger.
 ---
 
 # Action ledger
